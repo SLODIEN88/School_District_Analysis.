@@ -5,8 +5,9 @@ The purpose of this analysis was to determine if there were any evidence of acad
 
 # Results:
 - How is the district summary affected?
-  - The district summary had 0% in the , so I was not able to conclude with evidence provided
-  - ![image](https://user-images.githubusercontent.com/96274446/151706302-2352f3b4-56b9-48bc-8ffe-afb5ff0f4771.png)
+  - The district summary showed little to no effect on the analysis
+  - ![image](https://user-images.githubusercontent.com/96274446/151716991-8901909d-c375-4d58-8cde-da22da34f697.png)
+
 
 - How is the school summary affected?
   - The school summary showed little efect on the analysis
