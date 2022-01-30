@@ -14,7 +14,7 @@ The purpose of this analysis was to determine if there were any evidence of acad
   - ![image](https://user-images.githubusercontent.com/96274446/151706275-7daf644c-bd40-42c0-a188-e1aaf6d5c593.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  - The replacement showed no effect at all even if after i replaced it with NAN
+  - The replacement showed little effect even after i replaced it with NAN. The scores were off by a small amount
   - ![image](https://user-images.githubusercontent.com/96274446/151706251-aa8f81fa-c361-4a54-84f5-744ce064f9dc.png)
 
 
