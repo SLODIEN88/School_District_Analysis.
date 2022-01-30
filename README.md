@@ -5,7 +5,7 @@ The purpose of this analysis was to determine if there were any evidence of acad
 
 # Results:
 - How is the district summary affected?
-  - The district summary had NaN in there, so I was not able to conclude with enough evidence
+  - The district summary had 0% in the , so I was not able to conclude with evidence provided
   - ![image](https://user-images.githubusercontent.com/96274446/151706302-2352f3b4-56b9-48bc-8ffe-afb5ff0f4771.png)
 
 - How is the school summary affected?
@@ -18,10 +18,11 @@ The purpose of this analysis was to determine if there were any evidence of acad
 
 
 # How the ninth-grade scores affected the following:
-- Math and reading scores by grade
-- Scores by school spending
-- Scores by school size
-- Scores by school type
+Just like with everything else, there was little effect on all other graders's scores 
+![image](https://user-images.githubusercontent.com/96274446/151706412-f1c67e4c-d401-4e1b-8e68-5cf7cad8c85e.png)
+![image](https://user-images.githubusercontent.com/96274446/151706414-bf2fcce1-83ee-43d8-bafd-a55cca15192b.png)
+![image](https://user-images.githubusercontent.com/96274446/151706421-cd274910-bc5e-4722-a949-cdf69ee29bac.png)
+![image](https://user-images.githubusercontent.com/96274446/151706426-0cc99559-bc03-4516-b31b-1efbbf9adf79.png)
 
 # Summary:
 As we can see from above, there was very little effect on the scores after making the adjustments. Even though, there was a small decrease in both math and reading averages on the district level, overall, the dishonesty had little impact overall.
