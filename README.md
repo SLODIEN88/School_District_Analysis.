@@ -1,7 +1,7 @@
 ## School_District_Analysis.
 
 # Overview of the school district analysis: 
-The purpose of this analysis was to determine if there were any evidence of academic dishonesty specifically, reading and math grades at Thomas High School. After completing the analysis, I do not think there was any dishonesty. 
+The purpose of this analysis was to determine if there were any evidence of academic dishonesty specifically, reading and math grades at Thomas High School. After completing the analysis, I do not think there was any dishonesty mainly becuase the data reported for the 9th graders was inaccurate. So after 
 
 # Results:
 - How is the district summary affected?
