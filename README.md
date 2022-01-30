@@ -5,11 +5,17 @@ The purpose of this analysis was to determine if there were any evidence of acad
 
 # Results:
 - How is the district summary affected?
-  - The district summary showed
+  - The district summary had NaN in there, so I was not able to conclude with enough evidence
+  - ![image](https://user-images.githubusercontent.com/96274446/151706302-2352f3b4-56b9-48bc-8ffe-afb5ff0f4771.png)
+
 - How is the school summary affected?
-  - The school summary showed
+  - The school summary showed little efect on the analysis
+  - ![image](https://user-images.githubusercontent.com/96274446/151706275-7daf644c-bd40-42c0-a188-e1aaf6d5c593.png)
+
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  - The replacement showed 
+  - The replacement showed no effect at all even if after i replaced it with NAN
+  - ![image](https://user-images.githubusercontent.com/96274446/151706251-aa8f81fa-c361-4a54-84f5-744ce064f9dc.png)
+
 
 # How the ninth-grade scores affected the following:
 - Math and reading scores by grade
